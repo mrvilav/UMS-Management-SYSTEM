@@ -8,7 +8,7 @@
 #include<stdlib.h>//Standard Library For Various Functionalites
 #include<stdio.h>//For Remove() & Rename()
 
-using namespace std; //Using standard Namespace  called std
+using namespace std; //Using standard Namespace  called as std
 class UMS //Base Class UMS
 {
 	private: //Private Acess Specifiers
